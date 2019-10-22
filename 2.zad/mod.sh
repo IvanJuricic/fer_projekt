@@ -1,6 +1,6 @@
 #! /bin/bash
 #Get desired path
-var=/home/$USER/
+var=/home/$USER/fer_projekt
 #Type in a number of minutes you want to check
 echo "Koliko minuta zelite: " 
 #Get user input and save it in variable input
