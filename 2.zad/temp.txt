@@ -1,9 +1,0 @@
-/home/ivanjuricic/.local/share/gvfs-metadata/root-965c86d5.log
-/home/ivanjuricic/FER/fer_projekt/2.zad/temp.txt
-/home/ivanjuricic/FER/fer_projekt/2.zad/backup.tgz
-/home/ivanjuricic/snap/code/common/.cache/gdk-pixbuf-loaders.cache
-/home/ivanjuricic/.mozilla/firefox/h4240hx5.default-release/datareporting/aborted-session-ping
-/home/ivanjuricic/.config/dconf/user
-/home/ivanjuricic/.config/Code/GPUCache/data_1
-/home/ivanjuricic/.config/Code/Cache/index-dir/the-real-index
-/home/ivanjuricic/.config/Code/storage.json

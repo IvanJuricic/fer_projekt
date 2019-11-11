@@ -1,8 +1,0 @@
-then echo $curl https://www.njuskalo.hr/ | hxselect -c '.BaseCategory-title  BaseCategory-title--highlight'
-
-hxselect article h3
-hxselect article h3
-curl "https://www.njuskalo.hr/kucni-ljubimci" | hxselect article h3
- hxselect ol li:first-child
-
-hxselect article h3
